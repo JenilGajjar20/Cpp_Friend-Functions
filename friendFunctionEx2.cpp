@@ -28,7 +28,7 @@ class B
 
 void add(A obj1, B obj2)
 {
-    cout<<"Sum of values of A and B objects are: "<<(obj1.data + obj2.num);
+    cout<<"Sum of values of A and B are: "<<(obj1.data + obj2.num);
 }
 
 int main()
